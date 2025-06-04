@@ -295,12 +295,12 @@ Example output (formatted for easier reading):
                             "message": "ESLint Stylistic now maintains deprecated stylistic core rules.",
                             "url": "https://eslint.style/guide/migration",
                             "plugin": {
-                                "name": "@stylistic/eslint-plugin-js",
-                                "url": "https://eslint.style/packages/js"
+                                "name": "@stylistic/eslint-plugin",
+                                "url": "https://eslint.style"
                             },
                             "rule": {
                                 "name": "indent",
-                                "url": "https://eslint.style/rules/js/indent"
+                                "url": "https://eslint.style/rules/indent"
                             }
                         }
                     ]
@@ -586,12 +586,12 @@ Example output (formatted for easier reading):
                             "message": "ESLint Stylistic now maintains deprecated stylistic core rules.",
                             "url": "https://eslint.style/guide/migration",
                             "plugin": {
-                                "name": "@stylistic/eslint-plugin-js",
-                                "url": "https://eslint.style/packages/js"
+                                "name": "@stylistic/eslint-plugin",
+                                "url": "https://eslint.style"
                             },
                             "rule": {
                                 "name": "space-unary-ops",
-                                "url": "https://eslint.style/rules/js/space-unary-ops"
+                                "url": "https://eslint.style/rules/space-unary-ops"
                             }
                         }
                     ]
@@ -645,12 +645,12 @@ Example output (formatted for easier reading):
                             "message": "ESLint Stylistic now maintains deprecated stylistic core rules.",
                             "url": "https://eslint.style/guide/migration",
                             "plugin": {
-                                "name": "@stylistic/eslint-plugin-js",
-                                "url": "https://eslint.style/packages/js"
+                                "name": "@stylistic/eslint-plugin",
+                                "url": "https://eslint.style"
                             },
                             "rule": {
                                 "name": "semi",
-                                "url": "https://eslint.style/rules/js/semi"
+                                "url": "https://eslint.style/rules/semi"
                             }
                         }
                     ]
